@@ -1,0 +1,1247 @@
+﻿Log file open, 03/09/21 11:54:00
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: JustRPG
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.309312
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1607) (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/MyPrograms/JustRPG/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/MyPrograms/JustRPG/Saved/Config/Windows/Engine.ini]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/MyPrograms/JustRPG/Saved/Config/Windows/Engine.ini]
+[2021.03.09-08.54.02:053][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/MyPrograms/JustRPG/Saved/Config/Windows/Engine.ini]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/MyPrograms/JustRPG/Saved/Config/Windows/Engine.ini]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.03.09-08.54.02:053][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/MyPrograms/JustRPG/Saved/Config/Windows/Engine.ini]
+[2021.03.09-08.54.02:053][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/MyPrograms/JustRPG/Saved/Config/Windows/Engine.ini]
+[2021.03.09-08.54.02:058][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/MyPrograms/JustRPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-08.54.02:058][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.09-08.54.02:058][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.09-08.54.02:058][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/MyPrograms/JustRPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-08.54.02:058][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.09-08.54.02:058][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/MyPrograms/JustRPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-08.54.02:058][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.09-08.54.02:058][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.09-08.54.02:058][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.09-08.54.02:058][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.09-08.54.02:058][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.09-08.54.02:058][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.09-08.54.02:058][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.09-08.54.02:058][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.09-08.54.02:058][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/MyPrograms/JustRPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/MyPrograms/JustRPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/MyPrograms/JustRPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.09-08.54.02:059][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/MyPrograms/JustRPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/MyPrograms/JustRPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.09-08.54.02:060][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.09-08.54.02:060][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.09-08.54.02:060][  0]LogHAL: Display: Platform has ~ 8 GB [8480059392 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.09-08.54.02:060][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.09-08.54.02:060][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/MyPrograms/JustRPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/MyPrograms/JustRPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/MyPrograms/JustRPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/MyPrograms/JustRPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/MyPrograms/JustRPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.09-08.54.02:060][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/MyPrograms/JustRPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/MyPrograms/JustRPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/MyPrograms/JustRPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.09-08.54.02:061][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/MyPrograms/JustRPG/Saved/Config/Windows/Engine.ini]
+[2021.03.09-08.54.02:061][  0]LogInit: Computer: DESKTOP-5LG1FU8
+[2021.03.09-08.54.02:061][  0]LogInit: User: DWOutrangeous
+[2021.03.09-08.54.02:061][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.03.09-08.54.02:061][  0]LogInit: High frequency timer resolution =1.757813 MHz
+[2021.03.09-08.54.02:061][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.03.09-08.54.02:062][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.09-08.54.02:062][  0]LogMemory: Process Physical Memory: 134.56 MB used, 134.56 MB peak
+[2021.03.09-08.54.02:062][  0]LogMemory: Process Virtual Memory: 118.89 MB used, 118.89 MB peak
+[2021.03.09-08.54.02:062][  0]LogMemory: Physical Memory: 5138.69 MB used,  2948.53 MB free, 8087.21 MB total
+[2021.03.09-08.54.02:062][  0]LogMemory: Virtual Memory: 134212824.00 MB used,  4904.05 MB free, 134217728.00 MB total
+[2021.03.09-08.54.02:067][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.09-08.54.02:090][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.09-08.54.02:091][  0]LogInit: Using OS detected language (ru-RU).
+[2021.03.09-08.54.02:091][  0]LogInit: Using OS detected locale (ru-RU).
+[2021.03.09-08.54.02:096][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2021.03.09-08.54.02:097][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2021.03.09-08.54.02:097][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2021.03.09-08.54.02:097][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2021.03.09-08.54.02:097][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2021.03.09-08.54.02:097][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2021.03.09-08.54.02:097][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2021.03.09-08.54.02:097][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2021.03.09-08.54.02:098][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.09-08.54.02:105][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.09-08.54.02:126][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.09-08.54.02:126][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.09-08.54.02:600][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.09-08.54.02:600][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.09-08.54.02:600][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.09-08.54.02:600][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.09-08.54.02:697][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2021.03.09-08.54.02:697][  0]LogD3D11RHI:       128/0/4043 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2021.03.09-08.54.02:698][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.09-08.54.02:698][  0]LogD3D11RHI:       0/0/4043 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.09-08.54.02:698][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.09-08.54.02:702][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.09-08.54.02:702][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.09-08.54.02:702][  0]LogWindows: EnumDisplayDevices:
+[2021.03.09-08.54.02:702][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2021.03.09-08.54.02:703][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2021.03.09-08.54.02:703][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2021.03.09-08.54.02:703][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2021.03.09-08.54.02:703][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2021.03.09-08.54.02:703][  0]LogD3D11RHI:   Driver Version: 27.20.100.8189 (internal:27.20.100.8189, unified:27.20.100.8189)
+[2021.03.09-08.54.02:703][  0]LogD3D11RHI:      Driver Date: 5-5-2020
+[2021.03.09-08.54.02:703][  0]LogRHI: Texture pool is 1504 MB (70% of 2149 MB)
+[2021.03.09-08.54.02:800][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.03.09-08.54.02:801][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2021.03.09-08.54.02:801][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.09-08.54.02:801][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.09-08.54.02:810][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2021.03.09-08.54.03:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.09-08.54.03:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.09-08.54.03:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.09-08.54.03:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.09-08.54.03:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.09-08.54.03:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.09-08.54.03:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.09-08.54.03:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.09-08.54.03:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.09-08.54.03:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.09-08.54.03:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.09-08.54.03:166][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.09-08.54.03:166][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.09-08.54.03:177][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.09-08.54.03:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.09-08.54.03:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.09-08.54.03:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.09-08.54.03:213][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.09-08.54.03:222][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.09-08.54.03:231][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.09-08.54.03:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.09-08.54.03:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.09-08.54.03:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.03.09-08.54.03:280][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.03.09-08.54.03:289][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.03.09-08.54.03:298][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.03.09-08.54.03:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.09-08.54.03:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.09-08.54.03:331][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.09-08.54.03:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.09-08.54.03:352][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.09-08.54.03:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.09-08.54.03:361][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.09-08.54.03:368][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.09-08.54.03:425][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.03.09-08.54.03:426][  0]LogShaderCompilers: Guid format shader working directory is 33 characters bigger than the processId version (D:/MyPrograms/JustRPG/Intermediate/Shaders/WorkingDirectory/10056/).
+[2021.03.09-08.54.03:426][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/DW!Outrangeous/AppData/Local/Temp/UnrealShaderWorkingDir/3EA727494C4397C82F1EB2BC41C412D5/'.
+[2021.03.09-08.54.03:426][  0]LogShaderCompilers: Display: Using XGE Controller for Shader Compilation.
+[2021.03.09-08.54.04:351][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.09-08.54.04:489][  0]LogDerivedDataCache: Loaded boot cache 0.11s 77MB C:/Users/DW!Outrangeous/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.09-08.54.04:489][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/DW!Outrangeous/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.03.09-08.54.04:489][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/MyPrograms/JustRPG/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.09-08.54.04:489][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.09-08.54.04:489][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/MyPrograms/JustRPG/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.09-08.54.04:489][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.09-08.54.04:507][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.09-08.54.04:507][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.09-08.54.04:507][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.09-08.54.04:514][  0]LogDerivedDataCache: Speed tests for C:/Users/DW!Outrangeous/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.03.09-08.54.04:514][  0]LogDerivedDataCache: Display: Performance to C:/Users/DW!Outrangeous/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1204.29MBs, RandomWriteSpeed=169.31MBs. Assigned SpeedClass 'Local'
+[2021.03.09-08.54.04:515][  0]LogDerivedDataCache: Using Local data cache path C:/Users/DW!Outrangeous/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.09-08.54.04:515][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.09-08.54.04:515][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.09-08.54.04:567][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.09-08.54.04:568][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.09-08.54.04:599][  0]LogAssetRegistry: FAssetRegistry took 0.0041 seconds to start up
+[2021.03.09-08.54.04:883][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.09-08.54.04:883][  0]LogInit: Active device profile: [0000027856B87D00][000002784B255380 49] Windows
+[2021.03.09-08.54.04:883][  0]LogInit: Profiles: [0000027856B87D00][000002784B255380 49] Windows, [0000027856B50400][0000027853497500 49] WindowsNoEditor, [0000027856B84400][0000027853493640 49] WindowsServer, [0000027856B53900][000002785349B780 49] WindowsClient, [0000027856B87A00][000002783AF758C0 49] IOS, [0000027856B50800][000002783AF79A00 49] iPadAir, [0000027856B84700][000002783AF81B80 49] iPadAir2, [0000027856B15800][000002783AF88180 49] IPadPro, [0000027856B15900][000002783AF841C0 49] iPadAir3, [0000027856B87E00][0000027850782340 49] iPadAir4, [0000027856B14A00][00000278507864C0 49] iPadMini2, [0000027856B84800][000002785078A640 49] iPadMini3, [0000027856B16300][000002785078E7C0 49] iPadMini4, [0000027856B87600][0000027850792940 49] iPadMini5, [0000027856B52600][000002785079AC00 49] iPhone6, [0000027856B52500][0000027850796C40 49] iPodTouch6, [0000027856B17B00][00000278507A2F00 49] iPhone7, [0000027856B17C00][000002785079EF40 49] iPodTouch7, [0000027856B52F00][00000278507A70C0 49] iPhone5S, [0000027856B15600][00000278507AB240 49] iPhone6Plus, [0000027856B51B00][00000278507AF3C0 49] iPhone6S, [0000027856B17100][00000278507B3540 49] iPhone6SPlus, [0000027856B52C00][000002783AF7D680 49] iPhone7Plus, [0000027856B15700][00000278507B77C0 49] iPhoneSE, [0000027856B51700][00000278507BB900 49] iPhone8, [0000027856B15100][00000278507BFA40 49] iPhone8Plus, [0000027856B52700][0000027857AB5BC0 49] iPhoneX, [0000027856B14200][0000027857AB9D40 49] iPhoneXS, [0000027856B52900][0000027857ABC200 49] iPhoneXSMax, [0000027856B16B00][0000027857AF4380 49] iPhoneXR, [0000027856B53D00][0000027857B04500 49] iPhone11, [0000027856B16F00][0000027857B0C680 49] iPhone11Pro, [0000027856B51100][0000027857B10800 49] iPhone11ProMax, [0000027856B17A00][0000027857B14980 49] iPhoneSE2, [0000027856B51D00][0000027857B34B00 49] iPhone12Mini, [0000027856B14500][0000027857B38C80 49] iPhone12, [0000027856B50F00][0000027857B3CE00 49] iPhone12Pro, [0000027856B14E00][0000027857B40F80 49] iPhone12ProMax, [0000027856B52400][0000027857B45100 49] iPadPro105, [0000027856B14800][0000027857B49280 49] iPadPro129, [0000027856B50D00][0000027857B4D400 49] iPadPro97, [0000027856B15A00][0000027857B51580 49] iPadPro2_129, [0000027856B50700][0000027857B55700 49] iPad5, [0000027856B16000][0000027857AB1840 49] iPad6, [0000027856B50900][0000027857B59980 49] iPad7, [0000027856B15D00][0000027857B5DAC0 49] iPad8, [0000027856B50300][0000027857B65C40 49] iPadPro11, [0000027856B16500][0000027857B68100 49] iPadPro2_11, [0000027856B53F00][0000027857B6C280 49] iPadPro3_129, [0000027856B16E00][0000027857B70400 49] iPadPro4_129, [0000027856B51600][0000027857B74580 49] AppleTV, [0000027856B17300][0000027857B78700 49] AppleTV4K, [0000027856B53300][0000027857B7C880 49] TVOS, [0000027856B16A00][0000027857B80A00 49] Mac, [0000027856B51E00][0000027857B84B80 49] MacClient, [0000027856B17000][0000027857B88D00 49] MacNoEditor, [0000027856B50E00][0000027857B8CE80 49] MacServer, [0000027856B17F00][0000027857B91000 49] Linux, [0000027856B52A00][0000027857B95180 49] LinuxNoEditor, [0000027856B15500][0000027857B99300 49] LinuxAArch64NoEditor, [0000027856B51000][0000027857B9D480 49] LinuxClient, [0000027856B16600][0000027857BA1600 49] LinuxAArch64Client, [0000027856B50200][0000027857BA5780 49] LinuxServer, [0000027856B17D00][0000027857B618C0 49] LinuxAArch64Server, [0000027856B50600][0000027857BA9A00 49] Android, [0000027856B15200][0000027857BADB40 49] Android_Low, [0000027856B84B00][0000027857BB5CC0 49] Android_Mid, [0000027856BDC600][0000027857BB8180 49] Android_High, [0000027856B86B00][0000027857BBC300 49] Android_Default, [0000027856BDD700][0000027857BC0480 49] Android_Adreno4xx, [0000027856B85D00][0000027857BC4600 49] Android_Adreno5xx_Low, [0000027856BDC500][0000027857BC8780 49] Android_Adreno5xx, [0000027856B84D00][0000027857BCC900 49] Android_Adreno6xx, [0000027856BDD800][0000027857BD0A80 49] Android_Adreno6xx_Vulkan, [0000027856B87700][0000027857BD4C00 49] Android_Mali_T6xx, [0000027856BDCD00][0000027857BD8D80 49] Android_Mali_T7xx, [0000027856B86100][0000027857BDCF00 49] Android_Mali_T8xx, [0000027856BDDA00][0000027857BE1080 49] Android_Mali_G71, [0000027856B86900][0000027857BE5200 49] Android_Mali_G72, [0000027856BDD000][0000027857BE9380 49] Android_Mali_G72_Vulkan, [0000027856B86E00][0000027857BED500 49] Android_Mali_G76, [0000027856BDC900][0000027857BF1680 49] Android_Mali_G76_Vulkan, [0000027856B85B00][0000027857BF5800 49] Android_Mali_G77, [0000027856BDC200][0000027857BB1940 49] Android_Mali_G77_Vulkan, [0000027856B84500][0000027857BF9A80 49] Android_Vulkan_SM5, [0000027856BDD900][0000027857BFDBC0 49] Android_PowerVR_G6xxx, [0000027856B87500][0000027857C01D00 49] Android_PowerVR_GT7xxx, [0000027856BDD300][0000027857C081C0 49] Android_PowerVR_GE8xxx, [0000027856B14900][0000027857C0C340 49] Android_PowerVR_GM9xxx, [0000027856B52E00][0000027857C104C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000027856B17700][0000027857C14640 49] Android_TegraK1, [0000027856B53500][0000027857C187C0 49] Android_Unknown_Vulkan, [0000027856B14400][0000027857C1C940 49] Lumin, [0000027856B53800][0000027857C20AC0 49] Lumin_Desktop, [0000027856B17400][0000027857C24C40 49] HoloLens, 
+[2021.03.09-08.54.05:317][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.09-08.54.05:317][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.09-08.54.05:317][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.09-08.54.05:317][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.09-08.54.05:317][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.09-08.54.05:337][  0]LogNetVersion: JustRPG 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3572908787)
+[2021.03.09-08.54.05:848][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.03.09-08.54.07:327][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 1.477963 seconds
+[2021.03.09-08.54.07:338][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.03.09-08.54.07:338][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.03.09-08.54.07:338][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.09-08.54.07:900][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.09-08.54.07:905][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.09-08.54.08:045][  0]SourceControl: Source control is disabled
+[2021.03.09-08.54.08:045][  0]SourceControl: Source control is disabled
+[2021.03.09-08.54.08:049][  0]SourceControl: Source control is disabled
+[2021.03.09-08.54.08:055][  0]SourceControl: Source control is disabled
+[2021.03.09-08.54.08:066][  0]SourceControl: Source control is disabled
+[2021.03.09-08.54.08:069][  0]LogUProjectInfo: Found projects:
+[2021.03.09-08.54.08:357][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.09-08.54.08:379][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.09-08.54.08:379][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.09-08.54.08:440][  0]LogCollectionManager: Loaded 0 collections in 0.001750 seconds
+[2021.03.09-08.54.08:465][  0]LogFileCache: Scanning file cache for directory 'D:/MyPrograms/JustRPG/Saved/Collections/' took 0.00s
+[2021.03.09-08.54.08:465][  0]LogFileCache: Scanning file cache for directory 'D:/MyPrograms/JustRPG/Content/Developers/DWOutrangeous/Collections/' took 0.00s
+[2021.03.09-08.54.08:465][  0]LogFileCache: Scanning file cache for directory 'D:/MyPrograms/JustRPG/Content/Collections/' took 0.00s
+[2021.03.09-08.54.08:465][  0]LogOcInput: OculusInput pre-init called
+[2021.03.09-08.54.08:476][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.09-08.54.08:476][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.09-08.54.08:533][  0]LogEngine: Initializing Engine...
+[2021.03.09-08.54.08:535][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.09-08.54.08:535][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.09-08.54.08:536][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.09-08.54.08:713][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.09-08.54.08:725][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.09-08.54.08:774][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.03.09-08.54.08:779][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.03.09-08.54.08:779][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.03.09-08.54.08:779][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.09-08.54.08:779][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.09-08.54.08:779][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.09-08.54.08:779][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.09-08.54.08:779][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.09-08.54.08:779][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.09-08.54.08:779][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.09-08.54.08:779][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.09-08.54.08:779][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.09-08.54.08:779][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.09-08.54.08:789][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.09-08.54.08:789][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.09-08.54.09:286][  0]LogAudioMixer: Display: Using Audio Device Динамик (Conexant ISST Audio)
+[2021.03.09-08.54.09:295][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.09-08.54.09:297][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.09-08.54.09:297][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.09-08.54.09:299][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.09-08.54.09:299][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.09-08.54.09:299][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.09-08.54.09:300][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.09-08.54.09:300][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.09-08.54.09:300][  0]LogInit: FAudioDevice initialized.
+[2021.03.09-08.54.09:301][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.03.09-08.54.09:301][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.09-08.54.09:467][  0]LogDerivedDataCache: Saved boot cache 0.17s 77MB C:/Users/DW!Outrangeous/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.09-08.54.09:468][  0]LogInit: Texture streaming: Enabled
+[2021.03.09-08.54.09:484][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2021.03.09-08.54.09:487][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.09-08.54.09:488][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.09-08.54.09:489][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.09-08.54.09:542][  0]LogInit: Transaction tracking system initialized
+[2021.03.09-08.54.09:568][  0]BlueprintLog: New page: Editor Load
+[2021.03.09-08.54.09:655][  0]LocalizationService: Localization service is disabled
+[2021.03.09-08.54.09:684][  0]TimingProfiler: Initialize
+[2021.03.09-08.54.09:684][  0]TimingProfiler: OnSessionChanged
+[2021.03.09-08.54.09:684][  0]LoadingProfiler: Initialize
+[2021.03.09-08.54.09:684][  0]LoadingProfiler: OnSessionChanged
+[2021.03.09-08.54.09:684][  0]NetworkingProfiler: Initialize
+[2021.03.09-08.54.09:684][  0]NetworkingProfiler: OnSessionChanged
+[2021.03.09-08.54.09:684][  0]MemoryProfiler: Initialize
+[2021.03.09-08.54.09:685][  0]MemoryProfiler: OnSessionChanged
+[2021.03.09-08.54.09:899][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.03.09-08.54.09:899][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.09-08.54.10:062][  0]LogFileCache: Scanning file cache for directory 'D:/MyPrograms/JustRPG/Content/' took 0.07s
+[2021.03.09-08.54.10:254][  0]SourceControl: Source control is disabled
+[2021.03.09-08.54.10:255][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.666
+[2021.03.09-08.54.10:255][  0]Cmd: MAP LOAD FILE="D:/MyPrograms/JustRPG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.09-08.54.10:255][  0]LogEditorServer: Warning: Can't find file 'D:/MyPrograms/JustRPG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.03.09-08.54.10:255][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.09-08.54.10:255][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,12ms to complete.
+[2021.03.09-08.54.10:255][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.000
+[2021.03.09-08.54.10:257][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.668
+[2021.03.09-08.54.10:339][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.09-08.54.10:444][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.09-08.54.10:453][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.09-08.54.10:461][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.09-08.54.10:469][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.09-08.54.10:719][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0117 seconds. Added 3603 classes and 862 folders.
+[2021.03.09-08.54.10:727][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.03.09-08.54.10:734][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.09-08.54.10:734][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.09-08.54.10:734][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.09-08.54.10:734][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.03.09-08.54.10:737][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.09-08.54.10:737][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.09-08.54.10:737][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.09-08.54.10:737][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.03.09-08.54.10:738][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.03.09-08.54.10:738][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.09-08.54.10:738][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.03.09-08.54.10:738][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.03.09-08.54.10:740][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.09-08.54.10:740][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.09-08.54.10:740][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.09-08.54.10:740][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.03.09-08.54.10:741][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.09-08.54.10:742][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.09-08.54.10:742][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.09-08.54.10:742][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.03.09-08.54.10:743][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.09-08.54.10:743][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.09-08.54.10:743][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.09-08.54.10:743][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.03.09-08.54.10:744][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.09-08.54.10:744][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.09-08.54.10:744][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.09-08.54.10:744][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.03.09-08.54.10:746][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.09-08.54.10:746][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.09-08.54.10:746][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.09-08.54.10:746][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.03.09-08.54.10:747][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.09-08.54.10:747][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.09-08.54.10:747][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.09-08.54.10:747][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.03.09-08.54.10:749][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.03.09-08.54.10:749][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.09-08.54.10:749][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.03.09-08.54.10:749][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.03.09-08.54.10:750][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.03.09-08.54.10:750][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.09-08.54.10:750][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.03.09-08.54.10:750][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.03.09-08.54.10:751][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.09-08.54.10:751][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.09-08.54.10:751][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.09-08.54.10:751][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.03.09-08.54.10:753][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.09-08.54.10:753][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.09-08.54.10:753][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.09-08.54.10:753][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.03.09-08.54.10:754][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.09-08.54.10:754][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.09-08.54.10:754][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.09-08.54.10:754][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.03.09-08.54.10:756][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.03.09-08.54.10:756][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.09-08.54.10:756][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.03.09-08.54.10:756][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.03.09-08.54.10:757][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.09-08.54.10:757][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.09-08.54.10:757][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.09-08.54.10:757][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.03.09-08.54.10:759][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.03.09-08.54.10:759][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.09-08.54.10:759][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.03.09-08.54.10:759][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2021.03.09-08.54.10:760][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.09-08.54.10:760][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.09-08.54.10:760][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.09-08.54.10:760][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2021.03.09-08.54.10:762][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.09-08.54.10:762][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.09-08.54.10:762][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.09-08.54.10:762][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2021.03.09-08.54.10:763][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.09-08.54.10:763][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.09-08.54.10:763][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.09-08.54.10:763][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2021.03.09-08.54.10:765][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.03.09-08.54.10:765][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.09-08.54.10:765][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.03.09-08.54.10:765][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.03.09-08.54.10:766][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.03.09-08.54.10:766][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.09-08.54.10:766][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.03.09-08.54.10:766][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2021.03.09-08.54.10:768][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.03.09-08.54.10:768][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.09-08.54.10:768][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.03.09-08.54.10:768][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2021.03.09-08.54.10:769][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.03.09-08.54.10:769][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.09-08.54.10:769][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.03.09-08.54.10:769][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2021.03.09-08.54.10:771][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.03.09-08.54.10:771][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.09-08.54.10:771][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.03.09-08.54.10:771][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2021.03.09-08.54.10:773][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.03.09-08.54.10:773][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.03.09-08.54.10:773][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.03.09-08.54.10:773][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2021.03.09-08.54.10:874][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.03.09-08.54.10:906][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.09-08.54.10:917][  0]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.09-08.54.10:923][  0]LogSlate: Took 0.000831 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.09-08.54.11:045][  0]LogRenderer: Reallocating scene render targets to support 760x424 Format 10 NumSamples 1 (Frame:1).
+[2021.03.09-08.54.11:267][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.03.09-08.54.11:267][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.03.09-08.54.11:267][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.03.09-08.54.11:267][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.03.09-08.54.11:267][  0]LogLoad: (Engine Initialization) Total time: 11.68 seconds
+[2021.03.09-08.54.11:267][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.09-08.54.11:267][  0]LogInit: First time updating LLM stats...
+[2021.03.09-08.54.11:406][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.09-08.54.11:420][  1]LogAssetRegistry: Asset discovery search completed in 6.8224 seconds
+[2021.03.09-08.54.11:423][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.03.09-08.54.11:586][  2]LogSlate: Took 0.000758 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.09-08.55.09:828][154]LogHttp: Warning: 000002786F2EE400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-08.55.09:828][154]LogHttp: Warning: 000002786F2EE400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-08.55.09:828][154]LogHttp: Warning: 000002786F2EE400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-08.55.09:829][154]LogHttp: Warning: 000002786F2EE400: libcurl info message cache 1 (Closing connection 0)
+[2021.03.09-08.55.09:829][154]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-08.56.09:842][333]LogHttp: Warning: 000002786F2EC100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-08.56.09:843][333]LogHttp: Warning: 000002786F2EC100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-08.56.09:843][333]LogHttp: Warning: 000002786F2EC100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-08.56.09:843][333]LogHttp: Warning: 000002786F2EC100: libcurl info message cache 1 (Closing connection 1)
+[2021.03.09-08.56.10:180][334]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-08.57.09:859][512]LogHttp: Warning: 000002786F2EC100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-08.57.09:860][512]LogHttp: Warning: 000002786F2EC100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-08.57.09:860][512]LogHttp: Warning: 000002786F2EC100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-08.57.09:860][512]LogHttp: Warning: 000002786F2EC100: libcurl info message cache 1 (Closing connection 2)
+[2021.03.09-08.57.09:860][512]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-08.58.09:865][691]LogHttp: Warning: 000002786F2EC100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-08.58.09:865][691]LogHttp: Warning: 000002786F2EC100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-08.58.09:865][691]LogHttp: Warning: 000002786F2EC100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-08.58.09:865][691]LogHttp: Warning: 000002786F2EC100: libcurl info message cache 1 (Closing connection 3)
+[2021.03.09-08.58.10:205][692]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-08.59.10:151][871]LogHttp: Warning: 000002786F2EC100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-08.59.10:151][871]LogHttp: Warning: 000002786F2EC100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-08.59.10:151][871]LogHttp: Warning: 000002786F2EC100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-08.59.10:151][871]LogHttp: Warning: 000002786F2EC100: libcurl info message cache 1 (Closing connection 4)
+[2021.03.09-08.59.10:482][872]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.00.09:837][ 49]LogHttp: Warning: 000002786F2EC100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.00.09:837][ 49]LogHttp: Warning: 000002786F2EC100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.00.09:837][ 49]LogHttp: Warning: 000002786F2EC100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.00.09:837][ 49]LogHttp: Warning: 000002786F2EC100: libcurl info message cache 1 (Closing connection 5)
+[2021.03.09-09.00.10:171][ 50]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.01.09:870][228]LogHttp: Warning: 000002786F2EC100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.01.09:870][228]LogHttp: Warning: 000002786F2EC100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.01.09:871][228]LogHttp: Warning: 000002786F2EC100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.01.09:871][228]LogHttp: Warning: 000002786F2EC100: libcurl info message cache 1 (Closing connection 6)
+[2021.03.09-09.01.09:871][228]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.02.09:828][407]LogHttp: Warning: 000002786F2EC100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.02.09:828][407]LogHttp: Warning: 000002786F2EC100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.02.09:828][407]LogHttp: Warning: 000002786F2EC100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.02.09:828][407]LogHttp: Warning: 000002786F2EC100: libcurl info message cache 1 (Closing connection 7)
+[2021.03.09-09.02.10:162][408]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.03.10:060][587]LogHttp: Warning: 000002786F2EC100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.03.10:060][587]LogHttp: Warning: 000002786F2EC100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.03.10:060][587]LogHttp: Warning: 000002786F2EC100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.03.10:060][587]LogHttp: Warning: 000002786F2EC100: libcurl info message cache 1 (Closing connection 8)
+[2021.03.09-09.03.10:400][588]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.03.45:925][693]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fd64b8b5-624e-4201-b1c8-2b5ba677fc2b}.
+[2021.03.09-09.03.45:925][693]LogAudioMixer: Resetting audio stream to device id 
+[2021.03.09-09.03.46:005][693]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.09-09.03.46:005][693]LogAudioMixer: Display: 1: FrontRight
+[2021.03.09-09.04.10:004][766]LogHttp: Warning: 000002786F2EC800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.04.10:004][766]LogHttp: Warning: 000002786F2EC800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.04.10:004][766]LogHttp: Warning: 000002786F2EC800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.04.10:004][766]LogHttp: Warning: 000002786F2EC800: libcurl info message cache 1 (Closing connection 9)
+[2021.03.09-09.04.10:004][766]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.05.51:609][ 97]LogHttp: Warning: 000002786F404100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.05.51:609][ 97]LogHttp: Warning: 000002786F404100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.05.51:609][ 97]LogHttp: Warning: 000002786F404100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.05.51:609][ 97]LogHttp: Warning: 000002786F404100: libcurl info message cache 1 (Closing connection 10)
+[2021.03.09-09.05.51:626][ 98]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.06.09:844][705]LogHttp: Warning: 000002786F4AAB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.06.09:844][705]LogHttp: Warning: 000002786F4AAB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.06.09:844][705]LogHttp: Warning: 000002786F4AAB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.06.09:844][705]LogHttp: Warning: 000002786F4AAB00: libcurl info message cache 1 (Closing connection 11)
+[2021.03.09-09.06.10:177][706]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.06.37:957][469]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.09-09.06.37:967][469]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/System/SystemQuest/Enums/E_QuestStates.E_QuestStates
+[2021.03.09-09.07.09:989][755]LogHttp: Warning: 0000027876A24800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.07.09:989][755]LogHttp: Warning: 0000027876A24800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.07.09:989][755]LogHttp: Warning: 0000027876A24800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.07.09:989][755]LogHttp: Warning: 0000027876A24800: libcurl info message cache 1 (Closing connection 12)
+[2021.03.09-09.07.10:328][756]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.07.43:030][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/System/SystemQuest/Enums/E_QuestStates" FILE="D:/MyPrograms/JustRPG/Content/System/SystemQuest/Enums/E_QuestStates.uasset" SILENT=true
+[2021.03.09-09.07.43:033][514]LogSavePackage: Moving 'D:/MyPrograms/JustRPG/Saved/E_QuestStates5F97E06D464F3BB60A32A6A008999D08.tmp' to 'D:/MyPrograms/JustRPG/Content/System/SystemQuest/Enums/E_QuestStates.uasset'
+[2021.03.09-09.07.43:043][514]AssetCheck: New page: Asset Save: E_QuestStates
+[2021.03.09-09.07.43:043][514]LogContentValidation: Display: Validating UserDefinedEnum /Game/System/SystemQuest/Enums/E_QuestStates.E_QuestStates
+[2021.03.09-09.07.43:823][554]LogSlate: Window 'E_QuestStates' being destroyed
+[2021.03.09-09.07.57:604][357]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/System/SystemQuest/Widgets/W_QuestListEntry.W_QuestListEntry
+[2021.03.09-09.07.57:805][357]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 126 classes and 0 folders.
+[2021.03.09-09.07.59:178][357]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.09-09.08.09:508][649]LogHttp: Warning: 000002781347A400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.08.09:508][649]LogHttp: Warning: 000002781347A400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.08.09:508][649]LogHttp: Warning: 000002781347A400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.08.09:508][649]LogHttp: Warning: 000002781347A400: libcurl info message cache 1 (Closing connection 13)
+[2021.03.09-09.08.09:522][650]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.08.59:877][151]BlueprintLog: New page: Compile W_QuestListEntry
+[2021.03.09-09.08.59:993][151]LogUObjectHash: Compacting FUObjectHashTables data took  10.50ms
+[2021.03.09-09.09.00:104][151]LogSlate: Took 0.000961 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.03.09-09.09.00:665][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/System/SystemQuest/Widgets/W_QuestListEntry" FILE="D:/MyPrograms/JustRPG/Content/System/SystemQuest/Widgets/W_QuestListEntry.uasset" SILENT=true
+[2021.03.09-09.09.00:701][181]LogSavePackage: Moving 'D:/MyPrograms/JustRPG/Saved/W_QuestListEntry21436DAD4973A710A160C7A0890D0AB0.tmp' to 'D:/MyPrograms/JustRPG/Content/System/SystemQuest/Widgets/W_QuestListEntry.uasset'
+[2021.03.09-09.09.00:720][181]AssetCheck: New page: Asset Save: W_QuestListEntry
+[2021.03.09-09.09.00:720][181]LogContentValidation: Display: Validating WidgetBlueprint /Game/System/SystemQuest/Widgets/W_QuestListEntry.W_QuestListEntry
+[2021.03.09-09.09.09:944][233]LogHttp: Warning: 0000027877168800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.09.09:944][233]LogHttp: Warning: 0000027877168800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.09.09:944][233]LogHttp: Warning: 0000027877168800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.09.09:944][233]LogHttp: Warning: 0000027877168800: libcurl info message cache 1 (Closing connection 14)
+[2021.03.09-09.09.10:279][234]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.10.10:075][904]LogHttp: Warning: 0000027877383900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.10.10:076][904]LogHttp: Warning: 0000027877383900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.10.10:076][904]LogHttp: Warning: 0000027877383900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.10.10:076][904]LogHttp: Warning: 0000027877383900: libcurl info message cache 1 (Closing connection 15)
+[2021.03.09-09.10.10:076][904]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.10.36:454][310]LogTexture: Display: Building textures: Btn1 (BGRA8, 500X100)
+[2021.03.09-09.10.48:049][669]LogTexture: Display: Building textures: Btn1Click (BGRA8, 500X100)
+[2021.03.09-09.11.09:838][240]LogHttp: Warning: 000002786F7EF200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.11.09:838][240]LogHttp: Warning: 000002786F7EF200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.11.09:838][240]LogHttp: Warning: 000002786F7EF200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.11.09:838][240]LogHttp: Warning: 000002786F7EF200: libcurl info message cache 1 (Closing connection 16)
+[2021.03.09-09.11.09:839][240]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.12.01:038][152]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.09-09.12.09:546][320]LogHttp: Warning: 000002780A05AB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.12.09:546][320]LogHttp: Warning: 000002780A05AB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.12.09:546][320]LogHttp: Warning: 000002780A05AB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.12.09:546][320]LogHttp: Warning: 000002780A05AB00: libcurl info message cache 1 (Closing connection 17)
+[2021.03.09-09.12.09:546][320]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.12.39:799][180]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.09-09.13.09:960][126]LogHttp: Warning: 00000278149E8100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.13.09:960][126]LogHttp: Warning: 00000278149E8100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.13.09:960][126]LogHttp: Warning: 00000278149E8100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.13.09:960][126]LogHttp: Warning: 00000278149E8100: libcurl info message cache 1 (Closing connection 18)
+[2021.03.09-09.13.09:960][126]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.14.02:999][580]LogSlate: Took 0.006536 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.03.09-09.14.09:536][871]LogHttp: Warning: 000002781A0CCF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.14.09:536][871]LogHttp: Warning: 000002781A0CCF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.14.09:536][871]LogHttp: Warning: 000002781A0CCF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.14.09:536][871]LogHttp: Warning: 000002781A0CCF00: libcurl info message cache 1 (Closing connection 19)
+[2021.03.09-09.14.09:560][872]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.14.27:146][154]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.09-09.14.27:146][154]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.09-09.14.42:091][451]LogLinker: Warning: [AssetLog] D:\MyPrograms\JustRPG\Content\System\SystemQuest\Fonts\estre_Font.uasset: Failed to load '/Game/QuestSystem/Fonts/estre': Can't find file.
+[2021.03.09-09.14.42:092][451]LogLinker: Warning: [AssetLog] D:\MyPrograms\JustRPG\Content\System\SystemQuest\Fonts\estre_Font.uasset: Failed to load '/Game/QuestSystem/Fonts/estre': Can't find file.
+[2021.03.09-09.14.42:092][451]LogLinker: Warning: [AssetLog] D:\MyPrograms\JustRPG\Content\System\SystemQuest\Fonts\estre_Font.uasset: Failed to load '/Game/QuestSystem/Fonts/estre': Can't find file.
+[2021.03.09-09.14.42:092][451]LogLinker: Warning: [AssetLog] D:\MyPrograms\JustRPG\Content\System\SystemQuest\Fonts\estre_Font.uasset: Failed to load '/Game/QuestSystem/Fonts/estre': Can't find file.
+[2021.03.09-09.14.42:092][451]LoadErrors: Failed to load /Game/QuestSystem/Fonts/estre.estre Referenced by estre_Font
+[2021.03.09-09.14.42:093][451]LogLinker: Warning: [AssetLog] D:\MyPrograms\JustRPG\Content\System\SystemQuest\Fonts\Georgia_Bold_Font.uasset: Failed to load '/Game/QuestSystem/Fonts/Georgia_Bold': Can't find file.
+[2021.03.09-09.14.42:093][451]LogLinker: Warning: [AssetLog] D:\MyPrograms\JustRPG\Content\System\SystemQuest\Fonts\Georgia_Bold_Font.uasset: Failed to load '/Game/QuestSystem/Fonts/Georgia_Bold': Can't find file.
+[2021.03.09-09.14.42:093][451]LogLinker: Warning: [AssetLog] D:\MyPrograms\JustRPG\Content\System\SystemQuest\Fonts\Georgia_Bold_Font.uasset: Failed to load '/Game/QuestSystem/Fonts/Georgia_Bold': Can't find file.
+[2021.03.09-09.14.42:093][451]LogLinker: Warning: [AssetLog] D:\MyPrograms\JustRPG\Content\System\SystemQuest\Fonts\Georgia_Bold_Font.uasset: Failed to load '/Game/QuestSystem/Fonts/Georgia_Bold': Can't find file.
+[2021.03.09-09.14.42:093][451]LoadErrors: Failed to load /Game/QuestSystem/Fonts/Georgia_Bold.Georgia_Bold Referenced by Georgia_Bold_Font
+[2021.03.09-09.14.42:093][451]LogLinker: Warning: [AssetLog] D:\MyPrograms\JustRPG\Content\System\SystemQuest\Fonts\Georgia_Bold_Italic_Font.uasset: Failed to load '/Game/QuestSystem/Fonts/Georgia_Bold_Italic': Can't find file.
+[2021.03.09-09.14.42:094][451]LogLinker: Warning: [AssetLog] D:\MyPrograms\JustRPG\Content\System\SystemQuest\Fonts\Georgia_Bold_Italic_Font.uasset: Failed to load '/Game/QuestSystem/Fonts/Georgia_Bold_Italic': Can't find file.
+[2021.03.09-09.14.42:094][451]LogLinker: Warning: [AssetLog] D:\MyPrograms\JustRPG\Content\System\SystemQuest\Fonts\Georgia_Bold_Italic_Font.uasset: Failed to load '/Game/QuestSystem/Fonts/Georgia_Bold_Italic': Can't find file.
+[2021.03.09-09.14.42:094][451]LogLinker: Warning: [AssetLog] D:\MyPrograms\JustRPG\Content\System\SystemQuest\Fonts\Georgia_Bold_Italic_Font.uasset: Failed to load '/Game/QuestSystem/Fonts/Georgia_Bold_Italic': Can't find file.
+[2021.03.09-09.14.42:094][451]LoadErrors: Failed to load /Game/QuestSystem/Fonts/Georgia_Bold_Italic.Georgia_Bold_Italic Referenced by Georgia_Bold_Italic_Font
+[2021.03.09-09.14.42:094][451]LogLinker: Warning: [AssetLog] D:\MyPrograms\JustRPG\Content\System\SystemQuest\Fonts\georgia_Font.uasset: Failed to load '/Game/QuestSystem/Fonts/georgia': Can't find file.
+[2021.03.09-09.14.42:095][451]LogLinker: Warning: [AssetLog] D:\MyPrograms\JustRPG\Content\System\SystemQuest\Fonts\georgia_Font.uasset: Failed to load '/Game/QuestSystem/Fonts/georgia': Can't find file.
+[2021.03.09-09.14.42:095][451]LogLinker: Warning: [AssetLog] D:\MyPrograms\JustRPG\Content\System\SystemQuest\Fonts\georgia_Font.uasset: Failed to load '/Game/QuestSystem/Fonts/georgia': Can't find file.
+[2021.03.09-09.14.42:095][451]LogLinker: Warning: [AssetLog] D:\MyPrograms\JustRPG\Content\System\SystemQuest\Fonts\georgia_Font.uasset: Failed to load '/Game/QuestSystem/Fonts/georgia': Can't find file.
+[2021.03.09-09.14.42:095][451]LoadErrors: Failed to load /Game/QuestSystem/Fonts/georgia.georgia Referenced by georgia_Font
+[2021.03.09-09.14.42:095][451]LogLinker: Warning: [AssetLog] D:\MyPrograms\JustRPG\Content\System\SystemQuest\Fonts\Georgia_Italic_Font.uasset: Failed to load '/Game/QuestSystem/Fonts/Georgia_Italic': Can't find file.
+[2021.03.09-09.14.42:095][451]LogLinker: Warning: [AssetLog] D:\MyPrograms\JustRPG\Content\System\SystemQuest\Fonts\Georgia_Italic_Font.uasset: Failed to load '/Game/QuestSystem/Fonts/Georgia_Italic': Can't find file.
+[2021.03.09-09.14.42:095][451]LogLinker: Warning: [AssetLog] D:\MyPrograms\JustRPG\Content\System\SystemQuest\Fonts\Georgia_Italic_Font.uasset: Failed to load '/Game/QuestSystem/Fonts/Georgia_Italic': Can't find file.
+[2021.03.09-09.14.42:096][451]LogLinker: Warning: [AssetLog] D:\MyPrograms\JustRPG\Content\System\SystemQuest\Fonts\Georgia_Italic_Font.uasset: Failed to load '/Game/QuestSystem/Fonts/Georgia_Italic': Can't find file.
+[2021.03.09-09.14.42:096][451]LoadErrors: Failed to load /Game/QuestSystem/Fonts/Georgia_Italic.Georgia_Italic Referenced by Georgia_Italic_Font
+[2021.03.09-09.14.42:105][452]LogSlate: Last resort fallback font was requested. Font: '', Character: 'G (U+0047)'
+[2021.03.09-09.14.42:155][452]LogSlate: Took 0.044335 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2021.03.09-09.15.09:583][530]LogHttp: Warning: 00000278192AAB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.15.09:583][530]LogHttp: Warning: 00000278192AAB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.15.09:583][530]LogHttp: Warning: 00000278192AAB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.15.09:583][530]LogHttp: Warning: 00000278192AAB00: libcurl info message cache 1 (Closing connection 20)
+[2021.03.09-09.15.09:583][530]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.15.14:774][817]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.09-09.15.14:774][817]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.09-09.15.34:616][763]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.09-09.15.34:616][763]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.09-09.16.06:676][379]LogAssetEditorSubsystem: Opening Asset editor for Font /Game/System/SystemQuest/Fonts/georgia_Font.georgia_Font
+[2021.03.09-09.16.09:567][499]LogHttp: Warning: 00000278557C4F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.16.09:567][499]LogHttp: Warning: 00000278557C4F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.16.09:567][499]LogHttp: Warning: 00000278557C4F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.16.09:567][499]LogHttp: Warning: 00000278557C4F00: libcurl info message cache 1 (Closing connection 21)
+[2021.03.09-09.16.09:613][500]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.16.24:264][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/System/SystemQuest/Fonts/georgia_Font" FILE="D:/MyPrograms/JustRPG/Content/System/SystemQuest/Fonts/georgia_Font.uasset" SILENT=true
+[2021.03.09-09.16.24:270][314]LogSavePackage: Moving 'D:/MyPrograms/JustRPG/Saved/georgia_FontD7DE70D746FE738F69B209830D761550.tmp' to 'D:/MyPrograms/JustRPG/Content/System/SystemQuest/Fonts/georgia_Font.uasset'
+[2021.03.09-09.16.24:294][314]AssetCheck: New page: Asset Save: georgia_Font
+[2021.03.09-09.16.24:294][314]LogContentValidation: Display: Validating Font /Game/System/SystemQuest/Fonts/georgia_Font.georgia_Font
+[2021.03.09-09.16.27:583][462]BlueprintLog: New page: Compile W_QuestListEntry
+[2021.03.09-09.16.27:784][462]LogUObjectHash: Compacting FUObjectHashTables data took  15.30ms
+[2021.03.09-09.16.27:886][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.09-09.16.27:888][462]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.09-09.16.27:893][462]LogSlate: Took 0.001770 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.03.09-09.16.27:893][462]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.09-09.16.27:893][462]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.09-09.16.27:914][462]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.09-09.16.27:915][462]LogSlate: Took 0.000098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.03.09-09.16.27:940][463]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.09-09.16.28:371][484]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.09-09.16.28:385][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/System/SystemQuest/Widgets/W_QuestListEntry" FILE="D:/MyPrograms/JustRPG/Content/System/SystemQuest/Widgets/W_QuestListEntry.uasset" SILENT=true
+[2021.03.09-09.16.28:394][484]LogSavePackage: Moving 'D:/MyPrograms/JustRPG/Saved/W_QuestListEntry70BCD2AB456A25B4A7A38891CA3793DB.tmp' to 'D:/MyPrograms/JustRPG/Content/System/SystemQuest/Widgets/W_QuestListEntry.uasset'
+[2021.03.09-09.16.28:415][484]AssetCheck: New page: Asset Save: W_QuestListEntry
+[2021.03.09-09.16.28:415][484]LogContentValidation: Display: Validating WidgetBlueprint /Game/System/SystemQuest/Widgets/W_QuestListEntry.W_QuestListEntry
+[2021.03.09-09.16.47:560][909]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.09-09.16.47:560][909]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.09-09.17.09:976][396]LogHttp: Warning: 000002780F959600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.17.09:976][396]LogHttp: Warning: 000002780F959600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.17.09:976][396]LogHttp: Warning: 000002780F959600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.17.09:976][396]LogHttp: Warning: 000002780F959600: libcurl info message cache 1 (Closing connection 22)
+[2021.03.09-09.17.09:976][396]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.18.07:386][742]LogSlate: Took 0.006711 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2021.03.09-09.18.09:520][859]LogHttp: Warning: 0000027819BC8F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.18.09:520][859]LogHttp: Warning: 0000027819BC8F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.18.09:520][859]LogHttp: Warning: 0000027819BC8F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.18.09:520][859]LogHttp: Warning: 0000027819BC8F00: libcurl info message cache 1 (Closing connection 23)
+[2021.03.09-09.18.09:538][860]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.18.13:698][ 82]LogAssetEditorSubsystem: Opening Asset editor for Font /Game/System/SystemQuest/Fonts/estre_Font.estre_Font
+[2021.03.09-09.18.17:124][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/System/SystemQuest/Fonts/estre_Font" FILE="D:/MyPrograms/JustRPG/Content/System/SystemQuest/Fonts/estre_Font.uasset" SILENT=true
+[2021.03.09-09.18.17:130][260]LogSavePackage: Moving 'D:/MyPrograms/JustRPG/Saved/estre_Font756D24664646EF3A82FEB28EACD4A609.tmp' to 'D:/MyPrograms/JustRPG/Content/System/SystemQuest/Fonts/estre_Font.uasset'
+[2021.03.09-09.18.17:156][260]AssetCheck: New page: Asset Save: estre_Font
+[2021.03.09-09.18.17:156][260]LogContentValidation: Display: Validating Font /Game/System/SystemQuest/Fonts/estre_Font.estre_Font
+[2021.03.09-09.18.19:461][371]BlueprintLog: New page: Compile W_QuestListEntry
+[2021.03.09-09.18.19:616][371]LogUObjectHash: Compacting FUObjectHashTables data took  12.06ms
+[2021.03.09-09.18.19:721][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.09-09.18.19:722][371]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.09-09.18.19:733][371]LogSlate: Took 0.002343 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2021.03.09-09.18.19:737][371]LogSlate: Took 0.002660 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.03.09-09.18.19:737][371]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.09-09.18.19:738][371]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.09-09.18.19:759][371]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.09-09.18.19:760][371]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.03.09-09.18.19:802][372]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.09-09.18.20:849][425]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.09-09.18.20:871][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/System/SystemQuest/Widgets/W_QuestListEntry" FILE="D:/MyPrograms/JustRPG/Content/System/SystemQuest/Widgets/W_QuestListEntry.uasset" SILENT=true
+[2021.03.09-09.18.20:882][425]LogSavePackage: Moving 'D:/MyPrograms/JustRPG/Saved/W_QuestListEntry3CFBDBAB49601A65AEBE538A98FFAB82.tmp' to 'D:/MyPrograms/JustRPG/Content/System/SystemQuest/Widgets/W_QuestListEntry.uasset'
+[2021.03.09-09.18.20:903][425]AssetCheck: New page: Asset Save: W_QuestListEntry
+[2021.03.09-09.18.20:903][425]LogContentValidation: Display: Validating WidgetBlueprint /Game/System/SystemQuest/Widgets/W_QuestListEntry.W_QuestListEntry
+[2021.03.09-09.18.27:355][722]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.09-09.18.27:355][722]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.09-09.18.29:235][808]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.09-09.18.29:235][808]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.09-09.18.36:847][179]LogAssetEditorSubsystem: Opening Asset editor for Font /Game/System/SystemQuest/Fonts/estre_Font.estre_Font
+[2021.03.09-09.18.45:947][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/System/SystemQuest/Fonts/estre_Font" FILE="D:/MyPrograms/JustRPG/Content/System/SystemQuest/Fonts/estre_Font.uasset" SILENT=true
+[2021.03.09-09.18.45:950][655]LogSavePackage: Moving 'D:/MyPrograms/JustRPG/Saved/estre_Font79D9FADE4BD1AAEE2D4AE69A347BB660.tmp' to 'D:/MyPrograms/JustRPG/Content/System/SystemQuest/Fonts/estre_Font.uasset'
+[2021.03.09-09.18.45:973][655]AssetCheck: New page: Asset Save: estre_Font
+[2021.03.09-09.18.45:973][655]LogContentValidation: Display: Validating Font /Game/System/SystemQuest/Fonts/estre_Font.estre_Font
+[2021.03.09-09.18.47:199][711]BlueprintLog: New page: Compile W_QuestListEntry
+[2021.03.09-09.18.47:292][711]LogUObjectHash: Compacting FUObjectHashTables data took  11.70ms
+[2021.03.09-09.18.47:407][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.09-09.18.47:408][711]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.09-09.18.47:412][711]LogSlate: Took 0.001858 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.03.09-09.18.47:413][711]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.09-09.18.47:413][711]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.09-09.18.47:437][711]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.09-09.18.47:438][711]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.03.09-09.18.47:482][712]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.09-09.18.48:007][738]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.09-09.18.48:033][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/System/SystemQuest/Widgets/W_QuestListEntry" FILE="D:/MyPrograms/JustRPG/Content/System/SystemQuest/Widgets/W_QuestListEntry.uasset" SILENT=true
+[2021.03.09-09.18.48:042][738]LogSavePackage: Moving 'D:/MyPrograms/JustRPG/Saved/W_QuestListEntry2D7E63924F53CE2FCBAF01A18A591C1E.tmp' to 'D:/MyPrograms/JustRPG/Content/System/SystemQuest/Widgets/W_QuestListEntry.uasset'
+[2021.03.09-09.18.48:064][738]AssetCheck: New page: Asset Save: W_QuestListEntry
+[2021.03.09-09.18.48:064][738]LogContentValidation: Display: Validating WidgetBlueprint /Game/System/SystemQuest/Widgets/W_QuestListEntry.W_QuestListEntry
+[2021.03.09-09.19.02:596][585]LogSlate: Took 0.002225 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2021.03.09-09.19.04:338][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/System/SystemQuest/Fonts/estre_Font" FILE="D:/MyPrograms/JustRPG/Content/System/SystemQuest/Fonts/estre_Font.uasset" SILENT=true
+[2021.03.09-09.19.04:341][677]LogSavePackage: Moving 'D:/MyPrograms/JustRPG/Saved/estre_Font8025234D4000AEBBCB4201871BF6BD0F.tmp' to 'D:/MyPrograms/JustRPG/Content/System/SystemQuest/Fonts/estre_Font.uasset'
+[2021.03.09-09.19.04:361][677]AssetCheck: New page: Asset Save: estre_Font
+[2021.03.09-09.19.04:361][677]LogContentValidation: Display: Validating Font /Game/System/SystemQuest/Fonts/estre_Font.estre_Font
+[2021.03.09-09.19.24:886][872]LogHttp: Warning: 000002780F928100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.19.24:886][872]LogHttp: Warning: 000002780F928100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.19.24:886][872]LogHttp: Warning: 000002780F928100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.19.24:886][872]LogHttp: Warning: 000002780F928100: libcurl info message cache 1 (Closing connection 24)
+[2021.03.09-09.19.24:886][872]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.20.09:542][375]LogHttp: Warning: 0000027814B35600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.20.09:542][375]LogHttp: Warning: 0000027814B35600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.20.09:542][375]LogHttp: Warning: 0000027814B35600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.20.09:542][375]LogHttp: Warning: 0000027814B35600: libcurl info message cache 1 (Closing connection 25)
+[2021.03.09-09.20.09:558][376]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.20.11:735][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/System/SystemQuest/Fonts/estre_Font" FILE="D:/MyPrograms/JustRPG/Content/System/SystemQuest/Fonts/estre_Font.uasset" SILENT=true
+[2021.03.09-09.20.11:739][482]LogSavePackage: Moving 'D:/MyPrograms/JustRPG/Saved/estre_Font42C2D79245F68A2F2F51BAA979F40326.tmp' to 'D:/MyPrograms/JustRPG/Content/System/SystemQuest/Fonts/estre_Font.uasset'
+[2021.03.09-09.20.11:761][482]AssetCheck: New page: Asset Save: estre_Font
+[2021.03.09-09.20.11:761][482]LogContentValidation: Display: Validating Font /Game/System/SystemQuest/Fonts/estre_Font.estre_Font
+[2021.03.09-09.20.18:672][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.09-09.20.18:673][762]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.09-09.20.18:684][762]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.09-09.20.18:695][762]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.09-09.20.18:698][762]LogSlate: Took 0.000552 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.09-09.20.18:707][762]LogSlate: Took 0.002032 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.03.09-09.20.18:708][762]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.09-09.20.18:713][762]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.03.09-09.20.20:138][812]BlueprintLog: New page: Compile W_QuestListEntry
+[2021.03.09-09.20.20:230][812]LogUObjectHash: Compacting FUObjectHashTables data took  10.53ms
+[2021.03.09-09.20.20:959][836]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.09-09.20.20:977][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/System/SystemQuest/Widgets/W_QuestListEntry" FILE="D:/MyPrograms/JustRPG/Content/System/SystemQuest/Widgets/W_QuestListEntry.uasset" SILENT=true
+[2021.03.09-09.20.20:991][836]LogSavePackage: Moving 'D:/MyPrograms/JustRPG/Saved/W_QuestListEntryD69C0B6D49EC6729A377FCB7ABD30F94.tmp' to 'D:/MyPrograms/JustRPG/Content/System/SystemQuest/Widgets/W_QuestListEntry.uasset'
+[2021.03.09-09.20.21:016][836]AssetCheck: New page: Asset Save: W_QuestListEntry
+[2021.03.09-09.20.21:016][836]LogContentValidation: Display: Validating WidgetBlueprint /Game/System/SystemQuest/Widgets/W_QuestListEntry.W_QuestListEntry
+[2021.03.09-09.20.43:602][199]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.09-09.21.09:523][901]LogHttp: Warning: 0000027812D0C800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.21.09:523][901]LogHttp: Warning: 0000027812D0C800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.21.09:523][901]LogHttp: Warning: 0000027812D0C800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.21.09:523][901]LogHttp: Warning: 0000027812D0C800: libcurl info message cache 1 (Closing connection 26)
+[2021.03.09-09.21.09:542][902]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.21.22:840][171]LogSlate: Took 0.005790 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2021.03.09-09.21.37:969][714]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.09-09.22.09:523][384]LogHttp: Warning: 000002781228F200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.22.09:523][384]LogHttp: Warning: 000002781228F200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.22.09:523][384]LogHttp: Warning: 000002781228F200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.22.09:523][384]LogHttp: Warning: 000002781228F200: libcurl info message cache 1 (Closing connection 27)
+[2021.03.09-09.22.09:523][384]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.23.09:919][676]LogHttp: Warning: 000002781869EB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.23.09:919][676]LogHttp: Warning: 000002781869EB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.23.09:919][676]LogHttp: Warning: 000002781869EB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.23.09:919][676]LogHttp: Warning: 000002781869EB00: libcurl info message cache 1 (Closing connection 28)
+[2021.03.09-09.23.09:919][676]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.24.09:901][855]LogHttp: Warning: 000002781869EB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.24.09:901][855]LogHttp: Warning: 000002781869EB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.24.09:902][855]LogHttp: Warning: 000002781869EB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.24.09:902][855]LogHttp: Warning: 000002781869EB00: libcurl info message cache 1 (Closing connection 29)
+[2021.03.09-09.24.10:238][856]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.25.09:538][664]LogHttp: Warning: 000002781B6B4100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.25.09:538][664]LogHttp: Warning: 000002781B6B4100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.25.09:538][664]LogHttp: Warning: 000002781B6B4100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.25.09:538][664]LogHttp: Warning: 000002781B6B4100: libcurl info message cache 1 (Closing connection 30)
+[2021.03.09-09.25.09:538][664]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.25.32:831][350]BlueprintLog: New page: Compile W_QuestListEntry
+[2021.03.09-09.25.32:911][350]LogUObjectHash: Compacting FUObjectHashTables data took   9.33ms
+[2021.03.09-09.25.33:497][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/System/SystemQuest/Widgets/W_QuestListEntry" FILE="D:/MyPrograms/JustRPG/Content/System/SystemQuest/Widgets/W_QuestListEntry.uasset" SILENT=true
+[2021.03.09-09.25.33:507][369]LogSavePackage: Moving 'D:/MyPrograms/JustRPG/Saved/W_QuestListEntryE91D7924433C94031C8E869AE2A7DD29.tmp' to 'D:/MyPrograms/JustRPG/Content/System/SystemQuest/Widgets/W_QuestListEntry.uasset'
+[2021.03.09-09.25.33:526][369]AssetCheck: New page: Asset Save: W_QuestListEntry
+[2021.03.09-09.25.33:526][369]LogContentValidation: Display: Validating WidgetBlueprint /Game/System/SystemQuest/Widgets/W_QuestListEntry.W_QuestListEntry
+[2021.03.09-09.26.09:539][983]LogHttp: Warning: 000002781A10CF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.26.09:539][983]LogHttp: Warning: 000002781A10CF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.26.09:539][983]LogHttp: Warning: 000002781A10CF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.26.09:539][983]LogHttp: Warning: 000002781A10CF00: libcurl info message cache 1 (Closing connection 31)
+[2021.03.09-09.26.09:562][984]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.26.39:990][475]LogEditorTransaction: Undo Edit Size
+[2021.03.09-09.27.10:015][475]LogHttp: Warning: 0000027818563200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.27.10:015][475]LogHttp: Warning: 0000027818563200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.27.10:015][475]LogHttp: Warning: 0000027818563200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.27.10:015][475]LogHttp: Warning: 0000027818563200: libcurl info message cache 1 (Closing connection 32)
+[2021.03.09-09.27.10:351][476]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.27.20:482][826]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.09-09.27.32:953][ 42]LogSlate: Window 'Color Picker' being destroyed
+[2021.03.09-09.27.37:302][101]BlueprintLog: New page: Compile W_QuestListEntry
+[2021.03.09-09.27.37:359][101]LogUObjectHash: Compacting FUObjectHashTables data took   8.03ms
+[2021.03.09-09.27.37:563][108]BlueprintLog: New page: Compile W_QuestListEntry
+[2021.03.09-09.27.37:612][108]LogUObjectHash: Compacting FUObjectHashTables data took  10.39ms
+[2021.03.09-09.27.38:220][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/System/SystemQuest/Widgets/W_QuestListEntry" FILE="D:/MyPrograms/JustRPG/Content/System/SystemQuest/Widgets/W_QuestListEntry.uasset" SILENT=true
+[2021.03.09-09.27.38:229][134]LogSavePackage: Moving 'D:/MyPrograms/JustRPG/Saved/W_QuestListEntryCBAF93104D3CF422B33B77828094094D.tmp' to 'D:/MyPrograms/JustRPG/Content/System/SystemQuest/Widgets/W_QuestListEntry.uasset'
+[2021.03.09-09.27.38:249][134]AssetCheck: New page: Asset Save: W_QuestListEntry
+[2021.03.09-09.27.38:249][134]LogContentValidation: Display: Validating WidgetBlueprint /Game/System/SystemQuest/Widgets/W_QuestListEntry.W_QuestListEntry
+[2021.03.09-09.28.08:145][283]LogEditorTransaction: Undo Edit Min Desired Width
+[2021.03.09-09.28.09:532][325]LogHttp: Warning: 000002780FB45600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.28.09:532][325]LogHttp: Warning: 000002780FB45600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.28.09:532][325]LogHttp: Warning: 000002780FB45600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.28.09:532][325]LogHttp: Warning: 000002780FB45600: libcurl info message cache 1 (Closing connection 33)
+[2021.03.09-09.28.09:555][326]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.28.25:705][ 29]LogEditorTransaction: Undo Edit Wrap Text At
+[2021.03.09-09.28.27:463][ 96]BlueprintLog: New page: Compile W_QuestListEntry
+[2021.03.09-09.28.27:560][ 96]LogUObjectHash: Compacting FUObjectHashTables data took  11.12ms
+[2021.03.09-09.28.28:060][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/System/SystemQuest/Widgets/W_QuestListEntry" FILE="D:/MyPrograms/JustRPG/Content/System/SystemQuest/Widgets/W_QuestListEntry.uasset" SILENT=true
+[2021.03.09-09.28.28:096][114]LogSavePackage: Moving 'D:/MyPrograms/JustRPG/Saved/W_QuestListEntry062B9EE243B5BC8E00153182E31E99D4.tmp' to 'D:/MyPrograms/JustRPG/Content/System/SystemQuest/Widgets/W_QuestListEntry.uasset'
+[2021.03.09-09.28.28:115][114]AssetCheck: New page: Asset Save: W_QuestListEntry
+[2021.03.09-09.28.28:115][114]LogContentValidation: Display: Validating WidgetBlueprint /Game/System/SystemQuest/Widgets/W_QuestListEntry.W_QuestListEntry
+[2021.03.09-09.28.43:537][684]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/System/SystemQuest/Widgets/W_GoalEntry.W_GoalEntry
+[2021.03.09-09.29.09:522][812]LogHttp: Warning: 00000278247AAB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.03.09-09.29.09:522][812]LogHttp: Warning: 00000278247AAB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.03.09-09.29.09:522][812]LogHttp: Warning: 00000278247AAB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.03.09-09.29.09:522][812]LogHttp: Warning: 00000278247AAB00: libcurl info message cache 1 (Closing connection 34)
+[2021.03.09-09.29.09:522][812]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA90DE816-4358-39B7-CB68-F68F36088C4E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=ab74582f49b0cd1af6705ea67b65471f%7C170bfca675814f5b9a4fed28e023cda1%7C7275d7f7-b347-4ccd-8e86-655b2c5d52b6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.03.09-09.30.04:485][595]LogTexture: Display: Building textures: MiniMapBorder2 (BGRA8, 400X400)
+[2021.03.09-09.30.08:180][688]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/System/SystemInventory/Widgets/Storage/WB_StorageSlot.WB_StorageSlot_C:ItemInfo'. Unknown structure.
+[2021.03.09-09.30.08:180][688]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/System/SystemInventory/Widgets/Storage/WB_StorageSlot.WB_StorageSlot_C:ExecuteUbergraph_WB_StorageSlot:CallFunc_GetItemInfoAtIndex_ItemInfo'. Unknown structure.
+[2021.03.09-09.30.08:329][688]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/System/SystemInventory/Widgets/WB_DraggedItem.WB_DraggedItem_C:ItemInfo'. Unknown structure.
+[2021.03.09-09.30.08:359][688]LogClass: Warning: Property ItemInfo of ItemInfo has a struct type mismatch (tag STRUCT_REINST_S_ItemInfo_0 != prop FallbackStruct) in package:  D:/MyPrograms/JustRPG/Content/System/SystemInventory/Widgets/WB_DraggedItem.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.03.09-09.30.08:755][688]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/System/SystemInventory/Widgets/shop/WB_OfferItem.WB_OfferItem_C:ItemInfo'. Unknown structure.
+[2021.03.09-09.30.08:936][688]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/System/SystemInventory/Widgets/Craft/WB_CraftingMenu.WB_CraftingMenu_C:CurrentItemInfo'. Unknown structure.
+[2021.03.09-09.30.09:219][688]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/System/SystemInventory/Widgets/WB_ThrowWidget.WB_ThrowWidget_C:ExecuteUbergraph_WB_ThrowWidget:CallFunc_GetItemInfoAtIndex_ItemInfo'. Unknown structure.
+[2021.03.09-09.30.09:790][688]LogClass: Warning: Property CurrentItemInfo of CurrentItemInfo has a struct type mismatch (tag STRUCT_REINST_S_ItemInfo_0 != prop FallbackStruct) in package:  D:/MyPrograms/JustRPG/Content/System/SystemInventory/Widgets/Craft/WB_CraftingMenu.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.03.09-09.30.09:887][688]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/System/SystemInventory/Widgets/shop/WB_Sell.WB_Sell_C:Item Info'. Unknown structure.
+[2021.03.09-09.30.09:887][688]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/System/SystemInventory/Widgets/shop/WB_Sell.WB_Sell_C:ExecuteUbergraph_WB_Sell:CallFunc_GetItemInfoAtIndex_ItemInfo'. Unknown structure.
+[2021.03.09-09.30.09:890][688]LogClass: Warning: Property Item Info of Item Info has a struct type mismatch (tag STRUCT_REINST_S_ItemInfo_0 != prop FallbackStruct) in package:  D:/MyPrograms/JustRPG/Content/System/SystemInventory/Widgets/shop/WB_Sell.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.03.09-09.30.09:944][688]LogClass: Warning: Property ItemInfo of ItemInfo has a struct type mismatch (tag STRUCT_REINST_S_ItemInfo_0 != prop FallbackStruct) in package:  D:/MyPrograms/JustRPG/Content/System/SystemInventory/Widgets/shop/WB_OfferItem.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.03.09-09.30.09:968][688]LogClass: Warning: Property ItemInfo of ItemInfo has a struct type mismatch (tag STRUCT_REINST_S_ItemInfo_0 != prop FallbackStruct) in package:  D:/MyPrograms/JustRPG/Content/System/SystemInventory/Widgets/Storage/WB_StorageSlot.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.03.09-09.30.12:056][688]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.03.09-09.30.12:434][688]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.378 s
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: === Handled ensure: ===
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: 
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: Ensure condition failed: !FPackageName::IsShortPackageName(Path) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/UObject/SoftObjectPath.cpp] [Line: 79]
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: Cannot create SoftObjectPath with short package name 'False'! You must pass in fully qualified package names
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: Stack: 
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe02a18a9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe0178b4c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe00f15d9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe0100c59 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe00fcc16 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe00fcacf UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbdfdb54f8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbc8918068 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbc1dd38c5 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbc1dfda88 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbc6bc7e1e UE4Editor-Kismet.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbc6b71282 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbc6b6dfc3 UE4Editor-Kismet.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbdfde2f80 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbdfff16fa UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbdfff1bfb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe002a20c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe01b90d5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbdffe42ad UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe006b912 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe0069f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe006b9d9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe0069f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe00697d1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe0001d29 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe00666da UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbdfff3b7e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe001f776 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe01b8d93 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbdffe42ad UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe006b912 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe0069f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe006b9d9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe0069f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe00697d1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe0001d29 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe00666da UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbdfff3b7e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe001f776 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:434][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe01b8d93 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbdffe42ad UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe006b912 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe0069f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe006b9d9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe0069f07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe00697d1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe0001d29 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe00666da UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbdfff3b7e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe001f776 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe01b8d93 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbe01b7f30 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbbfa41374 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbbf9ff982 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbbfa78c82 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbbfa44b82 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbab575de8 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbab576275 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbab537d60 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbc019a52f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbc01d538b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbc02318dd UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbd3bbee75 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbd3bc5660 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbd3b9b867 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbd3c385fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbd3c5077e UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbd3bc6dd5 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbd3a946be UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbd3b17f54 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbd3b00367 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbd3af3642 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbf754bca5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbf7539197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbf754e379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbf7534310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffc03f81c24 USER32.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffc03f8156c USER32.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffbf754f904 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ff62c6b87e7 UE4Editor.exe!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ff62c6d113c UE4Editor.exe!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ff62c6d121a UE4Editor.exe!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ff62c6e527d UE4Editor.exe!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ff62c6e7faa UE4Editor.exe!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffc05428364 KERNEL32.DLL!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: [Callstack] 0x00007ffc06a45e91 ntdll.dll!UnknownFunction []
+[2021.03.09-09.30.12:435][688]LogOutputDevice: Error: 
