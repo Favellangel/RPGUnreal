@@ -1,6 +1,6 @@
-# RpgUnrealBP
+# prototype RpgGame
 
-Simple implementation of an RPG game. (In the source folder there is a video showing the game interface)
+Simple RPG prototype. (There is a video in the source folder showing the game interface)
 This project was split into 3 conditional systems and components.
 
 1 inventory system. It includes
